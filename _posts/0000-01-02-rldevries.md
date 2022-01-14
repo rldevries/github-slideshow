@@ -1,3 +1,6 @@
+---
 layout: slide
 title: "Welcome to our second slide!"
-fair enouth - edit
+---
+Your text
+Use the left arrow to go back!
